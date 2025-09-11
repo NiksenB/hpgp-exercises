@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "HPGP Beginner Project.sln"
+    "dotnet.defaultSolution": "Week01 - HPGP Beginner Project.sln"
 }
